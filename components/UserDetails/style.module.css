@@ -1,0 +1,16 @@
+.wrapper {
+  @apply flex justify-center gap-8 items-center my-6;
+}
+
+.avatar {
+  @apply h-[100px] w-[100px];
+  @apply border-2 border-solid border-blue-100 rounded-[50px];
+}
+
+.username {
+  @apply block capitalize text-lg text-blue-100;
+}
+
+.type {
+  @apply block  text-sm text-gray-100;
+}

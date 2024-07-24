@@ -1,0 +1,23 @@
+.wrapper {
+  @apply max-w-[1143px] mx-auto p-6;
+}
+
+.header h1 {
+  @apply text-center text-3xl;
+}
+
+.select_desc {
+  @apply mt-4 text-sm block text-center text-blue-100;
+}
+
+.selection_wrapper {
+  @apply flex justify-center gap-12 mt-3;
+}
+
+.search_response {
+  @apply mx-auto my-8;
+}
+
+.search_loading {
+  @apply block text-gray-100 font-medium text-center text-xl;
+}

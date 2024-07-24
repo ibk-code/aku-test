@@ -1,0 +1,8 @@
+/* ------- configure variables ------ */
+:root {
+  --gray: #bdbdbd;
+  --blue: #1985be;
+}
+
+[data-theme="light"] {
+}

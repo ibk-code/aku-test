@@ -1,0 +1,14 @@
+/* ---------- import abstract folders ----------- */
+@import "./abstracts/_variable.css";
+
+/* ------------ import base folder ------------ */
+@import "tailwindcss/base";
+@import "./base/_base.css";
+@import "./base/_typography.css";
+
+/* ---------- import component folder ---------- */
+@import "tailwindcss/components";
+
+/* ----------- import utilities folder ---------- */
+@import "tailwindcss/utilities";
+@import "./utils/helper.css";
